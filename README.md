@@ -1,2 +1,2 @@
-for viewing the app aclick on **http://kaif132380drawingapp.io/
+for viewing the app aclick on ** https://kaif132380.github.io/Drawing-app/o/
 **
